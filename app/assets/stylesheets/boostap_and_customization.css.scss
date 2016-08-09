@@ -1,7 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
-$body-bg:	#2ecc71;
+$body-bg:	#ecf0f1;
 $navbar-default-bg: #27ae60;
 $navbar-default-link-color:white;
 $brand-primary: #27ae60;
 $jumbotron-bg:white;
 @import 'bootstrap';
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
