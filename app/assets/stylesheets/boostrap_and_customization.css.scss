@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
-
+@import "thredded";
 $body-bg:	#ecf0f1;
-$navbar-default-bg: #27ae60;
+$navbar-default-bg: #2980b9;
 $navbar-default-link-color:white;
-$brand-primary: #27ae60;
-$jumbotron-bg:white;
+$brand-primary: #2980b9;
+$jumbotron-bg: #ecf0f1;
 @import 'bootstrap';
 .center {
      text-align: center;

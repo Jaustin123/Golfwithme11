@@ -9,7 +9,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
-gem 'devise', '~> 4.2.0' 
+gem 'thredded', '~> 0.6.2'
+gem 'omniauth-facebook', '~> 4.0' 
+gem 'devise', '~> 4.2.0'
 group :development, :test do
   gem 'sqlite3'
 end
